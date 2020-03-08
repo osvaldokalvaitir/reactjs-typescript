@@ -1,4 +1,4 @@
-# ReactJS - Typescript
+# ReactJS - TypeScript
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-themeswitcher/blob/master/LICENSE)
 ![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-typescript.svg)
@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando Create React App, TypeScript e Axios consumindo os recursos da API do [Node - Typescript](https://github.com/osvaldokalvaitir/node-typescript).
+Aplicação usando Create React App, TypeScript e Axios consumindo os recursos da API do [Node - TypeScript](https://github.com/osvaldokalvaitir/node-typescript).
 
 ## Índice
 
