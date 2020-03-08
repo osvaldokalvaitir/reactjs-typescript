@@ -37,8 +37,6 @@ Aplicação usando Create React App, TypeScript e Axios consumindo os recursos d
 ![Main](/.github/assets/main.png)
 Esta é a única tela, onde encontra-se os dados dos usuários vindos da API.
 
-### Tema Dark
-
 ## Desenvolvimento
 
 ### Configuração do Ambiente
