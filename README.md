@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando Create React App, TypeScript e Axios consumindo os recursos da API do [Node - TypeScript](https://github.com/osvaldokalvaitir/node-typescript).
+Aplicação usando Create React App, TypeScript e Axios consumindo os recursos da API do [Node.js - TypeScript](https://github.com/osvaldokalvaitir/nodejs-typescript).
 
 ## Índice
 
@@ -60,3 +60,13 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
 
 - [TypeScript](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/typescript.md)
+
+### APIs
+
+- **[Node.js - TypeScript](https://github.com/osvaldokalvaitir/nodejs-typescript)**
+
+  - **Rotas**
+
+    - Usuários
+
+      - Lista todos os usuários
